@@ -1,6 +1,6 @@
 # provider_support
 
-A new Flutter project.
+A Flutter project that provide provider state management.
 
 ## Getting Started
 
